@@ -73,9 +73,9 @@
   <div class="clearfix">
   <div class="img-container">
   <img src="https://th.bing.com/th/id/OIP.h3JA7TunS1qA_Ky0yblFSAHaHa?w=162&h=180&c=7&r=0&o=7&dpr=1.4&pid=1.7&rm=3" alt="Italy" style="width:100%">
-  <p class="po">Very sticky superglue.</p>
-  <img class="po" src="https://www.publicdomainpictures.net/pictures/100000/velka/tree-1408913303yNa.jpg" alt="Forest" style="width:100%">
-  <p class="po">Normal rocks pack. 10 rocks per each.</p>
+  <p class="po">Basalt. 1.50$</p>
+  <img class="po" src="https://th.bing.com/th/id/OIP.YzAyLnstdX2O39eJWuCD-QHaEK?w=322&h=181&c=7&r=0&o=7&dpr=1.4&pid=1.7&rm=3" alt="Forest" style="width:100%">
+  <p class="po">Adventurine. $18–$22/lb</p>
   </div>
   <div class="img-container">
   <img src="https://www.publicdomainpictures.net/pictures/100000/velka/tree-1408913303yNa.jpg" alt="Forest" style="width:100%">
