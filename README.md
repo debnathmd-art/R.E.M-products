@@ -4,8 +4,66 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>R.e.m Products</title>
-  
- 
+  <style>
+      body {
+      background-color: white
+      }
+  #himd {
+  border: 1px solid gray;
+  }
+  article {
+    background-color: #009bff;
+    width: 100%;
+    height: 100px;
+    color: white;
+    border-radius: 5px;
+    border: 1px gray;
+    margin: 0px;
+    text-align: center;
+    display: flex;
+    justify-content: center;   /* horizontal */
+    align-items: center;       /* vertical */
+   }
+  .po {
+  float: down;
+  }
+  * {
+  box-sizing: border-box;
+}
+.img-container {
+  float: left;
+  width: 33.33%;
+  padding: 10px;
+}
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+  }
+  .h1 {
+  text-align: center;
+  }
+    .topnav {
+      background-color: #333;
+      overflow: hidden;
+    }
+    .topnav a {
+      float: left;
+      color: #f2f2f2;
+      text-align: center;
+      padding: 14px 20px;
+      text-decoration: none;
+      font-size: 17px;
+    }
+    .topnav a:hover {
+      background-color: #ddd;
+      color: black;
+    }
+    .topnav a.active {
+      background-color: #04AA6D;
+      color: white;
+    }
+  </style>
 </head>
 <body>
 <nav><img src="https://static.vecteezy.com/system/resources/previews/043/765/969/original/tree-logo-design-illustration-vector.jpg" width="44" height="44"></nav>
