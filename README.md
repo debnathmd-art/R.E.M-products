@@ -78,7 +78,7 @@
   </div>
   <div id="himd" class="clearfix">
   <div class="img-container">
-  <img src="https://th.bing.com/th/id/OIP.h3JA7TunS1qA_Ky0yblFSAHaHa?w=162&h=180&c=7&r=0&o=7&dpr=1.4&pid=1.7&rm=3" alt="Italy" style="width:100%">
+  <img src="https://th.bing.com/th/id/OIP.h3JA7TunS1qA_Ky0yblFSAHaHa?w=162&h=180&c=7&r=0&o=7&dpr=1.4&pid=1.7&rm=3" alt="Basalt" style="width:100%">
   <p class="po">Basalt.</p>
   <img class="po" src="https://th.bing.com/th/id/OIP.wiWaHtptruIkld8FIypa-AHaHa?w=204&h=204&c=7&r=0&o=7&dpr=1.4&pid=1.7&rm=3" alt="Sunstone" style="width:100%">
   <p class="po">Sunstone.</p>
