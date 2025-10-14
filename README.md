@@ -5,6 +5,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>R.e.m Products</title>
   <style>
+    body {
+      background-color: white
+      }
   #himd {
   border: 1px solid gray;
   }
