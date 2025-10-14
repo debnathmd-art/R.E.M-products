@@ -5,6 +5,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>R.e.m Products</title>
   <style>
+  #himd {
+  border: 1px solid gray;
+  }
   article {
     background-color: #009bff;
     width: 100%;
@@ -27,13 +30,13 @@
 .img-container {
   float: left;
   width: 33.33%;
-  padding: 5px;
+  padding: 10px;
 }
 .clearfix::after {
   content: "";
   clear: both;
   display: table;
-}
+  }
   .h1 {
   text-align: center;
   }
@@ -70,7 +73,7 @@
     <h1 class="h1">Products</h1>
     <p class="h1">Note that our products are not sold here, and instead they are sold in Wranglers Park, P.C.R.</p>
   </div>
-  <div class="clearfix">
+  <div id="himd" class="clearfix">
   <div class="img-container">
   <img src="https://th.bing.com/th/id/OIP.h3JA7TunS1qA_Ky0yblFSAHaHa?w=162&h=180&c=7&r=0&o=7&dpr=1.4&pid=1.7&rm=3" alt="Italy" style="width:100%">
   <p class="po">Basalt.</p>
@@ -78,7 +81,7 @@
   <p class="po">Sunstone.</p>
   </div>
   <div class="img-container">
-  <img src="https://th.bing.com/th/id/OIP.iH1bf6BE0FgLhTkoFaqp5AHaFc?w=269&h=198&c=7&r=0&o=7&dpr=1.4&pid=1.7&rm=3" alt="Bismuth" style="width:100%">
+  <img src="https://th.bing.com/th/id/OIP.f688jK1UUgGspIuwFW-JZgHaE8?w=280&h=187&c=7&r=0&o=7&dpr=1.4&pid=1.7&rm=3" alt="Bismuth" style="width:100%">
   <p class="po">Bismuth.</p>
   <img src="https://th.bing.com/th/id/OIP.KXm87Ae5z8-xZID_rS3svgHaGK?w=216&h=180&c=7&r=0&o=7&dpr=1.4&pid=1.7&rm=3" alt="Green Aventurine" style="width:100%">
   <p class="po">Green Aventurine.</p>
