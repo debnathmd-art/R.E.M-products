@@ -33,7 +33,7 @@
 .img-container {
   float: left;
   width: 33.33%;
-  padding: 10px;
+  padding: 5px;
 }
 .clearfix::after {
   content: "";
@@ -78,21 +78,21 @@
   </div>
   <div id="himd" class="clearfix">
   <div class="img-container">
-  <img src="https://th.bing.com/th/id/OIP.h3JA7TunS1qA_Ky0yblFSAHaHa?w=162&h=180&c=7&r=0&o=7&dpr=1.4&pid=1.7&rm=3" alt="Basalt" style="width:100%">
+  <img src="https://th.bing.com/th/id/OIP.h3JA7TunS1qA_Ky0yblFSAHaHa?w=162&h=180&c=7&r=0&o=7&dpr=1.4&pid=1.7&rm=3" alt="Basalt" style="width:33.33%">
   <p class="po">Basalt.</p>
-  <img class="po" src="https://th.bing.com/th/id/OIP.wiWaHtptruIkld8FIypa-AHaHa?w=204&h=204&c=7&r=0&o=7&dpr=1.4&pid=1.7&rm=3" alt="Sunstone" style="width:100%">
+  <img class="po" src="https://th.bing.com/th/id/OIP.wiWaHtptruIkld8FIypa-AHaHa?w=204&h=204&c=7&r=0&o=7&dpr=1.4&pid=1.7&rm=3" alt="Sunstone" style="width:33.33%">
   <p class="po">Sunstone.</p>
   </div>
   <div class="img-container">
-  <img src="https://th.bing.com/th/id/OIP.f688jK1UUgGspIuwFW-JZgHaE8?w=280&h=187&c=7&r=0&o=7&dpr=1.4&pid=1.7&rm=3" alt="Bismuth" style="width:100%">
+  <img src="https://th.bing.com/th/id/OIP.f688jK1UUgGspIuwFW-JZgHaE8?w=280&h=187&c=7&r=0&o=7&dpr=1.4&pid=1.7&rm=3" alt="Bismuth" style="width:33.33%">
   <p class="po">Bismuth.</p>
-  <img src="https://th.bing.com/th/id/OIP.KXm87Ae5z8-xZID_rS3svgHaGK?w=216&h=180&c=7&r=0&o=7&dpr=1.4&pid=1.7&rm=3" alt="Green Aventurine" style="width:100%">
+  <img src="https://th.bing.com/th/id/OIP.KXm87Ae5z8-xZID_rS3svgHaGK?w=216&h=180&c=7&r=0&o=7&dpr=1.4&pid=1.7&rm=3" alt="Green Aventurine" style="width:33.33%">
   <p class="po">Green Aventurine.</p>
   </div>
   <div class="img-container">
-  <img src="https://th.bing.com/th/id/OIP.W8bjoKi3R90bUX1heUmkTAHaE8?w=273&h=182&c=7&r=0&o=7&dpr=1.4&pid=1.7&rm=3" alt="Red Jasper" style="width:100%">
+  <img src="https://th.bing.com/th/id/OIP.W8bjoKi3R90bUX1heUmkTAHaE8?w=273&h=182&c=7&r=0&o=7&dpr=1.4&pid=1.7&rm=3" alt="Red Jasper" style="width:33.33%">
   <p class="po">Red Jasper.</p>
-  <img src="https://th.bing.com/th/id/OIP.vzStzecXu7PowIT-NJuzQQHaDS?w=317&h=155&c=7&r=0&o=7&dpr=1.4&pid=1.7&rm=3" alt="Labradorite" style="width:100%">
+  <img src="https://th.bing.com/th/id/OIP.vzStzecXu7PowIT-NJuzQQHaDS?w=317&h=155&c=7&r=0&o=7&dpr=1.4&pid=1.7&rm=3" alt="Labradorite" style="width:33.33%">
   <p class="po">Labradorite.</p>
   </div>
 </div>
@@ -100,3 +100,6 @@
 <div style="text-align: center;"><article>Earth first, you next.</article></div>
 </body>
 </html>
+
+
+
