@@ -83,7 +83,9 @@
   <img class="po" src="https://th.bing.com/th/id/OIP.wiWaHtptruIkld8FIypa-AHaHa?w=204&h=204&c=7&r=0&o=7&dpr=1.4&pid=1.7&rm=3" alt="Sunstone" style="width:33.33%">
   <p class="po">Sunstone.</p>
   </div>
-  <div class="img-container">
+  <div class="img-container">[styles (2).css](https://github.com/user-attachments/files/22961114/styles.2.css)
+[styles (2).css](https://github.com/user-attachments/files/22961113/styles.2.css)
+
   <img src="https://th.bing.com/th/id/OIP.f688jK1UUgGspIuwFW-JZgHaE8?w=280&h=187&c=7&r=0&o=7&dpr=1.4&pid=1.7&rm=3" alt="Bismuth" style="width:33.33%">
   <p class="po">Bismuth.</p>
   <img src="https://th.bing.com/th/id/OIP.KXm87Ae5z8-xZID_rS3svgHaGK?w=216&h=180&c=7&r=0&o=7&dpr=1.4&pid=1.7&rm=3" alt="Green Aventurine" style="width:33.33%">
@@ -96,7 +98,8 @@
   <p class="po">Labradorite.</p>
   </div>
 </div>
-<p class="h1">We also sell other product not listed here.</p>
+<p class="h1">We also sell other product not listed here.</p>[styles (1).css](https://github.com/user-attachments/files/22961098/styles.1.css)
+
 <div style="text-align: center;"><article>Earth first, you next.</article></div>
 </body>
 </html>
