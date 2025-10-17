@@ -83,8 +83,7 @@
   <img class="po" src="https://th.bing.com/th/id/OIP.wiWaHtptruIkld8FIypa-AHaHa?w=204&h=204&c=7&r=0&o=7&dpr=1.4&pid=1.7&rm=3" alt="Sunstone" style="width:33.33%">
   <p class="po">Sunstone.</p>
   </div>
-  <div class="img-container">[styles (2).css](https://github.com/user-attachments/files/22961114/styles.2.css)
-[styles (2).css](https://github.com/user-attachments/files/22961113/styles.2.css)
+  <div class="img-container">
 
   <img src="https://th.bing.com/th/id/OIP.f688jK1UUgGspIuwFW-JZgHaE8?w=280&h=187&c=7&r=0&o=7&dpr=1.4&pid=1.7&rm=3" alt="Bismuth" style="width:33.33%">
   <p class="po">Bismuth.</p>
