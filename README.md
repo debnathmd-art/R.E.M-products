@@ -97,9 +97,7 @@
   <p class="po">Labradorite.</p>
   </div>
 </div>
-<p class="h1">We also sell other product not listed here.</p>[styles (1).css](https://github.com/user-attachments/files/22961098/styles.1.css)
-
-<div style="text-align: center;"><article>Earth first, you next.</article></div>
+<p class="h1">We also sell other product not listed here.</p><div style="text-align: center;"><article>Earth first, you next.</article></div>
 </body>
 </html>
 
